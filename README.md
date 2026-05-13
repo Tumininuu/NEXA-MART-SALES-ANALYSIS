@@ -199,4 +199,4 @@ This project demonstrates the practical application of analytics and visualizati
 
 * Linkedin: https://www.linkedin.com/in/amusan-bolatumi-081bab130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-* Github: 
+* Github: https://github.com/Tumininuu
