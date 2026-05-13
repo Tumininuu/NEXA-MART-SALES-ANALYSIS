@@ -1,5 +1,29 @@
 # NEXA-MART-SALES-ANALYSIS
 
+# Table of Contents
+
+* [NEXTMART SALES ANALYSIS DASHBOARD](#nextmart-sales-analysis-dashboard)
+
+  * [Project Overview](#project-overview)
+  * [Dataset Information](#dataset-information)
+  * [Dashboard Features](#dashboard-features)
+
+    * [Executive KPI Metrics](#executive-kpi-metrics)
+    * [Regional Sales Analysis](#regional-sales-analysis)
+    * [Product Performance Analysis](#product-performance-analysis)
+    * [Quarterly Revenue Analysis](#quarterly-revenue-analysis)
+    * [Sales Representative Performance](#sales-representative-performance)
+  * [Key Business Insights](#key-business-insights)
+
+    * [Revenue Performance](#revenue-performance)
+    * [Product Insights](#product-insights)
+    * [Regional Insights](#regional-insights)
+    * [Sales Team Performance](#sales-team-performance)
+  * [Tools & Technologies Used](#tools--technologies-used)
+  * [Project Objectives](#project-objectives)
+  * [Sample Dataset Records](#sample-dataset-records)
+  * [Conclusion](#conclusion)
+
 ## Project Overview
 
 The **NextMart Sales Analysis Dashboard** is a business intelligence project developed to analyze sales performance, product demand, and regional revenue trends across multiple locations and sales representatives.
@@ -25,6 +49,11 @@ The dashboard provides high-level sales performance indicators including:
 * Total Quantity Sold
 
 These KPIs provide a quick overview of overall business performance and sales volume.
+<img width="1052" height="573" alt="Nexa Mart Data" src="https://github.com/user-attachments/assets/48134d87-5205-43ee-bb07-0ac86b098ee2" />
+
+<img width="1073" height="558" alt="NEXA MART 1" src="https://github.com/user-attachments/assets/fd9a4f7e-9932-4c78-b268-70610d84a13a" />
+
+
 
 ---
 
